@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932431756722",
+    "project_id": "timetableappforteachers",
+    "storage_bucket": "timetableappforteachers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932431756722:android:7d2bbca1c37f160ab8b8ab",
+        "android_client_info": {
+          "package_name": "com.example.timetableappforteachers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932431756722-6af84h2ksjah6m3r4tqe0cvsdo8d9sa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxh_tX7PdvyI49dvW0Xc2KIUiU_M2SJaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932431756722-6af84h2ksjah6m3r4tqe0cvsdo8d9sa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
